@@ -30,4 +30,13 @@ padding: 10px 30px; margin-right: 40px; border: 2px solid #222940; color: #22294
 .a td {
 	text-align: left;
 	vertical-align: top;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+}
+p {
+	line-height: 2em;
+	margin-bottom: 3em;
+}
+.a p {
+	margin-left: 50px;
 }
